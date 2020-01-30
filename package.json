@@ -1,0 +1,23 @@
+{
+  "name": "ethersjs-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ethers.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenil04/ethersjs-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenil04/ethersjs-tutorial/issues"
+  },
+  "homepage": "https://github.com/jenil04/ethersjs-tutorial#readme",
+  "dependencies": {
+    "ethers": "^4.0.43",
+    "web3": "^1.2.5"
+  }
+}
